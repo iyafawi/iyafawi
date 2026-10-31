@@ -1,5 +1,3 @@
-The high-level overview first, details below.
-
 ### The High Level
 Third-year **Industrial Engineering student at the University of Toronto**. Interested in how AI works, how it's built, and the infrastructure that makes it possible.
 
