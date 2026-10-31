@@ -1,5 +1,5 @@
 ### The High Level
-Third-year **Industrial Engineering student at the University of Toronto**. Interested in how AI works, how it's built, and the infrastructure that makes it possible.
+Third-year **Industrial Engineering student at the University of Toronto**. Interested in how AI works and the infrastructure that makes it possible.
 
 ### What I'm Working On
 - **Autoresearch Inc. (YC S26)** — Developing reinforcement learning environments and benchmarking research.
