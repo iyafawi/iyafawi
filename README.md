@@ -1,16 +1,17 @@
-## Hi there 👋
+The high-level overview first, details below.
 
-<!--
-**iyafawi/iyafawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### The High Level
+Third-year **Industrial Engineering student at the University of Toronto**. Interested in how AI works, how it's built, and the infrastructure that makes it possible.
 
-Here are some ideas to get you started:
+### What I'm Working On
+- **Autoresearch Inc. (YC S26)** — Developing reinforcement learning environments and benchmarking research.
+- **Semiconductor Supply Chains** — Identifying critical suppliers and modelling disruption risks.
+- **Wafer Defect Detection** — Applying deep learning to semiconductor defect detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Under the Hood
+- **Languages:** Python, SQL, C#, Java, C
+- **ML & Deep Learning:** PyTorch, scikit-learn, pandas, NumPy
+- **Tools:** Git, GitHub, Power BI, Unity
+
+Currently exploring **AI infrastructure and deep learning**.
+
